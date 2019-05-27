@@ -44,7 +44,9 @@ APIs used:
 
 Yummly
 
-Spoonacular
+Spoonacular*
+
+<H2>Spoonacular is a premium API, and therefore it is not in use. Thus, the application is nonfunctional.<H2>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
